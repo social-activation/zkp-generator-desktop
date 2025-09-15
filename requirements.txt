@@ -1,0 +1,6 @@
+numpy==2.2.6
+pillow==11.3.0
+ezkl==22.2.1
+pytictoc==1.5.3
+
+pyinstaller==6.16.0

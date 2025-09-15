@@ -1,0 +1,18 @@
+venv
+__pycache__
+
+/proofs
+
+*.sol
+*.json
+*.key
+*.compiled
+
+.DS_Store
+
+
+## Builds
+/build
+/dist
+*.spec
+/release
