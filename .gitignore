@@ -4,9 +4,11 @@ __pycache__
 /proofs
 
 *.sol
-*.json
 *.key
 *.compiled
+*.zip
+
+input_image_rgb_64x64.json
 
 .DS_Store
 
@@ -14,5 +16,7 @@ __pycache__
 ## Builds
 /build
 /dist
+/srs
 *.spec
 /release
+.installed

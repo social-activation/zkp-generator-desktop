@@ -34,6 +34,7 @@ pyinstaller --onefile --windowed \
 mkdir release
 cp dist/ZKPGeneratorApp release/.
 cp network.onnx release/.
+cp settings.json release/.
 touch release/README.txt
 touch release/LICENSE
 ```
